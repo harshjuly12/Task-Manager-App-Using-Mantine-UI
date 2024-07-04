@@ -1,13 +1,9 @@
-# Task Manager App Using Mantine UI
-
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/harshjuly12/Task-Manager-App-Using-Mantine-UI/main/assets/112745312/c7a6b051-bab1-422f-8790-a1768c5c7dfa" alt="5_smart_time-management" width="80" style="margin-right: 10;"></td>
-    <td><h1 style="margin: 0;">Smart Time Management</h1></td>
+    <td><img src="https://github.com/harshjuly12/Task-Manager-App-Using-Mantine-UI/assets/112745312/22f68bfb-9335-409d-a24e-dbb3d83b3284" width="80" style="margin-right: 10;"></td>
+    <td><h1 style="margin: 0;">Task-Manager-App-Using-Mantine-UI</h1></td>
   </tr>
 </table>
-
-
 
 ## Table of Contents
 1. [Introduction](#introduction)
